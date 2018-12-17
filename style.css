@@ -1,0 +1,78 @@
+body {
+	background-color: #CBD2D0;
+}
+
+*{
+	font-family: 'merriweather', serif;
+}
+p {
+	padding:0;
+	opacity:0;
+	transition: opacity .5s ease
+}
+h1 {
+	text-align:center;
+}
+.first {
+	background-color: #84828F;
+	width:;
+	text-align: center;
+	float: left;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+}
+.second {
+	background-color: #6A687A;
+	width:;
+	text-align: center;
+	float: left;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+}
+.third {
+	background-color: #536271;
+	width:;
+	text-align: center;
+	float: left;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+}
+.fourth {
+	background-color: #3E4C5E;
+	width:;
+	text-align: center;
+	float: left;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+}
+.fifth {
+	background-color: #2C3D55;
+	width:;
+	text-align: center;
+	float: left;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+}
+.sixth {
+	background-color: #84828F;
+	width:;
+	text-align: center;
+	float: left;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+}
+.first:hover p,.second:hover p,.third:hover p,.fourth:hover p,.fifth:hover p,.sixth:hover p {
+	opacity:1;
+}
+.firstpic {
+	float: left;
+}
+.secondpic {
+	float: right;
+}
+.thirdpic {
+	float: left;
+}
+.fourthpic {
+	float: right;
+}
